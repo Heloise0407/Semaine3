@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'Montserrat';
+}
+
+header{
+    background-color: black;
+    overflow: auto;
+}
+
+header h1{
+float: left;
+padding: 20px;
+}
+
+header h1 a{
+    color: white;
+    text-decoration: none;
+}
+
+header ul
+{
+float: right;
+}
+
+header ul li
+{
+    display: inline-block;
+    padding: 20px;
+}
+
+header ul li a
+{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+header ul li a:hover
+{
+    background-color: grey;
+}
+
+.section1{
+    background: url(cafe2.jpeg) center center;
+    height: 600PX;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+.café1
+{
+    padding-top: 200px;
+    width: 600px;
+    margin: auto;
+}
+
+.café1 h2
+{
+padding: 15px;
+}
+
+.café1 p
+{
+    letter-spacing: 0.1em;
+    line-height: 1.9em;
+}
+
+.café1 a
+{
+padding: 15px;
+background-color: white;
+border-radius: 30px;
+text-decoration: none;
+color: black;
+}
+
+.café1 a:hover
+{
+background-color: grey;
+color: black;
+}
+
+.section2
+{
+    text-align: center;
+}
+
+.section2 dix
+{display: inline-block;
+
+}
